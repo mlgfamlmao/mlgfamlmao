@@ -18,8 +18,8 @@
 
 ## 📊 GitHub Stats
 
-![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakulkarni&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakulkarni&layout=compact&theme=tokyonight)
+![Bharat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mlgfamlmao&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mlgfamlmao&layout=compact&theme=tokyonight)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
